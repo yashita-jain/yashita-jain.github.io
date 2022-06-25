@@ -12,6 +12,8 @@ import img3 from "./images/portfolio.png";
 import img4 from "./images/TicTcToe.png";
 import img5 from "./images/DiceToss.png";
 import img6 from "./images/clock.png";
+import img7 from "./images/Calendar.png";
+
 
 export const Experience = [
   {
@@ -46,10 +48,10 @@ export const Experience = [
 export const Projects = [
   {
     id: 1,
-    name: "Contact Form",
-    imageSrc: img1,
-    techs: "NodeJs, ExpressJs, Pug, MongoDB, JSON, API",
-    github: "https://github.com/yashita-jain/Contact-form",
+    name: "CalendarDocket",
+    imageSrc: img7,
+    techs: "ReactJs, DayJs, Tailwind CSS",
+    github: "https://github.com/yashita-jain/CalendarDocket",
   },
   {
     id: 2,
@@ -60,24 +62,25 @@ export const Projects = [
   },
   {
     id: 3,
+    name: "Contact Form",
+    imageSrc: img1,
+    techs: "NodeJs, ExpressJs, Pug, MongoDB, JSON, API",
+    github: "https://github.com/yashita-jain/Contact-form",
+  },
+
+  {
+    id: 4,
     name: "Portfolio",
     imageSrc: img3,
     techs: "HTML, CSS, JavaScriptI",
     github: "https://github.com/yashita-jain/portfolio",
   },
   {
-    id: 4,
+    id: 5,
     name: "Tic Tac Toe ",
     imageSrc: img4,
     techs: "React Js, HTML ,CSS",
     github: "https://github.com/yashita-jain/Tictactoe-",
-  },
-  {
-    id: 5,
-    name: "Dice Toss",
-    imageSrc: img5,
-    techs: "JavaScript, HTML, CSS",
-    github: "https://github.com/yashita-jain/Dice-toss",
   },
   {
     id: 6,

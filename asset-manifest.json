@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yashita-jain.github.io/static/css/main.f1d7ab8e.css",
+    "main.js": "/yashita-jain.github.io/static/js/main.0a5cd8b9.js",
+    "static/js/301.092e9d75.chunk.js": "/yashita-jain.github.io/static/js/301.092e9d75.chunk.js",
+    "static/media/clock.png": "/yashita-jain.github.io/static/media/clock.b479c09e3ccdb349bb18.png",
+    "static/media/portfolio.png": "/yashita-jain.github.io/static/media/portfolio.d240a5a236eccbc6472a.png",
+    "static/media/pic3.jpeg": "/yashita-jain.github.io/static/media/pic3.b153ac561fb7c0060fbc.jpeg",
+    "static/media/MsTeams.png": "/yashita-jain.github.io/static/media/MsTeams.240691a9f328f96c0095.png",
+    "static/media/Calendar.png": "/yashita-jain.github.io/static/media/Calendar.47fd6f30ff7e426178ed.png",
+    "static/media/DiceToss.png": "/yashita-jain.github.io/static/media/DiceToss.73dfcb885fdd8f9e9bf4.png",
+    "static/media/contact_form.png": "/yashita-jain.github.io/static/media/contact_form.1b43f5d3b4f14823f6b5.png",
+    "static/media/TicTcToe.png": "/yashita-jain.github.io/static/media/TicTcToe.dfd80095a3eaadaac1fb.png",
+    "index.html": "/yashita-jain.github.io/index.html",
+    "main.f1d7ab8e.css.map": "/yashita-jain.github.io/static/css/main.f1d7ab8e.css.map",
+    "main.0a5cd8b9.js.map": "/yashita-jain.github.io/static/js/main.0a5cd8b9.js.map",
+    "301.092e9d75.chunk.js.map": "/yashita-jain.github.io/static/js/301.092e9d75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d7ab8e.css",
+    "static/js/main.0a5cd8b9.js"
+  ]
+}
